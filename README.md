@@ -1,20 +1,18 @@
 # FaceMaskDetector
 It is essential in these COVID times to ensure the safety of the people. So this Automated Face Mask Detector was done to detect whether a person is wearing face mask or not to ensure safety in public places.
+
 CNN was the best algorithm producing an accuracy of 96%
+
 In this the libraries used are
 
 1)Tensorflow
-
 2)Keras
-
 3)Opencv
-
 4)Numpy
 
 How to run:
 
 Run the file "mask_detection.ipynb" to train the model
-
 Then run "test.py" for detection
 
 Sample Outputs:
