@@ -1,5 +1,4 @@
 # FaceMaskDetector
-**Automated Face Mask Detector:** </br>
 It is essential in these COVID times to ensure the safety of the people. So this Automated Face Mask Detector was done to detect whether a person is wearing face mask or not to ensure safety in public places. <br/>
 The CNN algorithm produced an accuracy of 96% <br/>
 In this the libraries used are <br/>
